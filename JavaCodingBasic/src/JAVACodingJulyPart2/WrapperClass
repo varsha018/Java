@@ -1,0 +1,8 @@
+Integer,Long,Double,Float ---->> Wrapper class
+
+String is immutable and final
+
+
+
+>>>>>  Method Hiding  --> when parent class has static method and the same method with static keyword child class also has 
+						>>> then the parent static method is hidden and it cannot be overridden and accessed by child class.
