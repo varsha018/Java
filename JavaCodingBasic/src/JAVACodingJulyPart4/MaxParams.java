@@ -4,8 +4,8 @@ public class MaxParams {
 	
 	/*
 	 * we can pass 254 params as arguments in case of non-static methods we can pass
-	 * 255 params as arguments in case of static methods for double and long limit
-	 * is 127>>param passing
+	 * 255 params as arguments in case of static methods 
+	 * for double and long limit is 127>>param passing
 	 * 
 	 * double and long takes 8 bytes int takes 4 bytes
 	 * 
