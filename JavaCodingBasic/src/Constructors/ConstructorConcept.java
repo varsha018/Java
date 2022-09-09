@@ -1,7 +1,10 @@
 package Constructors;
 
 public class ConstructorConcept {
+		
 	
+	//Constructor is a class entity which is used to define some class features..
+	//constructor name should be same as class name
 	//a constructor will never return a value
 	//a method/function may/may not return a value
 	//initializing class variable and methods..

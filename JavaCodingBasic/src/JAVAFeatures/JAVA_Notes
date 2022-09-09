@@ -6,3 +6,16 @@ double and long takes 8 bytes
 int takes 4 bytes
 
 1 double = 2 int params while passing in methods arguments
+
+Throwable: is the SUPER CLASS of errors and exceptions in JAVA.
+Use with try catch block..
+
+Exceptions:
+Null Pointer
+Arithmetic
+Array out of bound
+
+
+Error:
+Out of memory
+Unable to load class
